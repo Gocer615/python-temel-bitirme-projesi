@@ -1,0 +1,1 @@
+# python-temel-bitirme-projesi
